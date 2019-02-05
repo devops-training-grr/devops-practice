@@ -1,2 +1,2 @@
 # devops-practice
-This repository is used to save all devops related tools documents.
+This repository is used to save all DevOps related tools documents.
